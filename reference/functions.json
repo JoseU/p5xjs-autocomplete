@@ -6,7 +6,7 @@
 "noCursor": [],
 "noSmooth": [],
 "pixelDensity": ["density"],
-"size": ["width","height","renderer"],
+"createCanvas": ["width","height","renderer"],
 "smooth": [],
 "noCursor": [],
 "binary": ["value","(digits)"],
