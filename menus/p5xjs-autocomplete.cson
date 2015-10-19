@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle p5xjs-autocomplete'
+      'command': 'p5xjs-autocomplete:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'p5xjs-autocomplete'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'p5xjs-autocomplete:toggle'
+        }
+      ]
+    ]
+  }
+]
