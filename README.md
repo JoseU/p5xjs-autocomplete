@@ -1,4 +1,4 @@
-# processing-autocomplete package
+# p5.js-autocomplete package
 
 This package allows to autocomplete functions of p5.js library. This library is based in processing-autocomple:
 https://github.com/Stefterv/processing-autocomplete
