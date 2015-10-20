@@ -2,7 +2,7 @@
   "name": "p5xjs-autocomplete",
   "main": "./lib/p5xjs-autocomplete",
   "version": "0.7.0",
-  "description": "Autocomplete package for the p5js programming language",
+  "description": "Autocomplete package for the p5js library",
   "keywords": [],
   "repository": "https://github.com/JoseU/p5xjs-autocomplete",
   "license": "MIT",
