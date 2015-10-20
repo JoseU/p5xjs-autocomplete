@@ -3,8 +3,30 @@
   "JSONObject":{
     "getString":["key","(defaultValue)"]
   },
-  "PVector":{
+  "p5.PVector":{
+    "toString":[],
+    "set":[],
+    "copy":[],
+    "add":[],
+    "sub":[],
+    "mult":[],
+    "div":[],
+    "mag":[],
+    "magSq":[],
+    "dot":[],
+    "cross":[],
+    "dist":[],
+    "normalize":[],
+    "limit":[],
+    "setMag":[],
+    "heading":[],
+    "rotate":[],
+    "lerp":[],
+    "array":[],
+    "equals":[],
+    "fromAngle":[],
     "random2D":[],
-    "fromAngle":["angle"]
+    "random3D":[],
+    "angleBetween":[],
   }
 }
