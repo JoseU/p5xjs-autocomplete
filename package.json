@@ -1,7 +1,7 @@
 {
   "name": "p5xjs-autocomplete",
   "main": "./lib/p5xjs-autocomplete",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Autocomplete package for the p5js programming language",
   "keywords": [],
   "repository": "https://github.com/JoseU/p5xjs-autocomplete",
