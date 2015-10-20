@@ -3,7 +3,7 @@
   "JSONObject":{
     "getString":["key","(defaultValue)"]
   },
-  "p5.PVector":{
+  "p5.Vector":{
     "toString":[],
     "set":[],
     "copy":[],
