@@ -27,6 +27,6 @@
     "fromAngle":[],
     "random2D":[],
     "random3D":[],
-    "angleBetween":[],
+    "angleBetween":[]
   }
 }
