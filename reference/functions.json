@@ -167,7 +167,7 @@
 "loop":[],
 "mag": [],
 "mag":["a","b"],
-"magSq"
+"magSq": [],
 "map":["value","start1","stop1","start2","stop"],
 "mask": ["srcImage"],
 "match":["str","regexp"],
@@ -222,7 +222,7 @@
 "ortho":["left","rigth","bottom","top","near","far"],
 "parent":[],
 "perspective":["fovy","aspect","near","far"],
-"pixelDensity"
+"pixelDensity": ["[val]"],
 "plane":["width","height"],
 "point":["x","y"],
 "pointLight":["v1","v2","v3","a","x","y","z"],
@@ -324,7 +324,6 @@
 "textwidth":["theText"],
 "tint": ["v1","[v2]","[v3]", "[a]"],
 "torus":["radius","tubeRadius","detail"],
-"toString"
 "touchEnded":["fxn"],
 "touchEnded":[],
 "touchMoved":["fxn"],
@@ -336,9 +335,9 @@
 "triangle":["x1","y1","x2","y2","x3","y3"],
 "trim": ["column"],
 "trim":["str"],
+"toString":[],
 "unchar": ["n"],
 "unhex":["n"],
-"updatePixels"
 "updatePixels":["x","y","w","w"],
 "vertex":["x","y"],
 "windowResized": [],
